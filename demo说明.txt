@@ -1,5 +1,10 @@
 项目演示
+谷歌云盘地址：
 https://drive.google.com/file/d/1aGA5vmt7rvr0cL9deyrxEb-xZVQe6Zad/view?usp=sharing
+
+百度网盘地址：
+链接：https://pan.baidu.com/s/1VP-JJ14KOFuqPfZO-Yatmw 
+提取码：m5h6
 
 人物设计要点：
 1. 动作无预输入，玩家需要精确找准时机按键
